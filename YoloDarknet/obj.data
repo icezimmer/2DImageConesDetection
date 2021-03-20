@@ -1,0 +1,6 @@
+classes= 4
+train  = [PATH Training Set]
+valid  = [PATH Training Set]
+names  = [PATH obj.names]
+backup = [PATH backup]
+
