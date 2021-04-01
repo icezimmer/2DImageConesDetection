@@ -1,6 +1,6 @@
 # 2D Image Cones Detection
 
-Cones Detection of 2D Images.
+Cone Detection of 2D Images.
 
 # Files
 
