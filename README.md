@@ -11,9 +11,9 @@ The dataset must contain the images and the annotation files (for each image a f
 │	hogenize.py
 │
 └───YoloDarknet
-	│   DarkNet_Conedetection.ipynb
-	│   obj.data
+	│	DarkNet_Conedetection.ipynb
 	│	obj.data
+	|	obj.names
 	│	test.jpg
 	│	yolo-obj.cfg
 	│
