@@ -1,6 +1,6 @@
 classes= 4
-train  = [PATH Training Set]
-valid  = [PATH Training Set]
-names  = [PATH obj.names]
-backup = [PATH backup]
+train  = /content/2DImageConesDetection/YoloDarknet/Dataset/TR.txt
+valid  = /content/2DImageConesDetection/YoloDarknet/Dataset/TS.txt
+names  = /content/2DImageConesDetection/YoloDarknet/obj.names
+backup = /content/2DImageConesDetection/YoloDarknet/backup/
 
