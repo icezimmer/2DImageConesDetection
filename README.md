@@ -5,6 +5,8 @@ Cone Detection of 2D Images:
 2.	Load the dataset compressed in format '.7z' (i.e. *'ConeDataset.7z'*) in the *'Dataset'* folder; the dataset must contain the images and the annotation files (for each image a file .txt with the annotation of the cones);
 3.	Run it.
 
+*P.S.*: A tiny dataset consisting of 60 images with annotation of the cones is provided in the Dataset folder.
+
 # Skeleton
 
 ```
@@ -20,7 +22,8 @@ Cone Detection of 2D Images:
 	│	yolo-obj.cfg
 	│
 	└───Dataset
-		│   ...
+		│   ConeDataset.7z
+		|
 		backup
 			...
 ```
