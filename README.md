@@ -1,7 +1,9 @@
 # 2D Image Cones Detection
 
-Cone Detection of 2D Images. Load the dataset compressed '.7z' in Dataset folder.
-The dataset must contain the images and the annotation files (for each image a file .txt with the annotation of the cones).
+Cone Detection of 2D Images:
+1.	Clone this repository;
+2.	Load the dataset compressed in format '.7z' (i.e. 'ConeDataset.7z') in the 'Dataset' folder; the dataset must contain the images and the annotation files (for each image a file .txt with the annotation of the cones);
+3.	Run it.
 
 # Skeleton
 
