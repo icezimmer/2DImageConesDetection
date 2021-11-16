@@ -84,9 +84,7 @@ DarkNet (YOLOv3) and CenterNet network.
 
 ## Final Project
 
-### Design
-
-####DarkNet (Yolov3)
+### Yolov3 Design
 
 YOLOv3 is an object detector that takes the detection procedure as a regression task.
 
