@@ -192,7 +192,7 @@ names= .../obj.names
 backup = .../backup/
 ```
 
-####DarkNet (Yolov3)
+### DarkNet (Yolov3)
 
 After conﬁguring Darknet, we ﬁrst trained it using pre-trained weights for the object detection task.
 
