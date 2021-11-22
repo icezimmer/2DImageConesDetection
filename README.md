@@ -1,4 +1,4 @@
-# 2D Image Cones Detection
+# 2D Image Cone Detection
 
 Cone Detection of 2D Images:
 1.	Clone this repository;
