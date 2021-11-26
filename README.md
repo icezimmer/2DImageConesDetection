@@ -32,7 +32,7 @@ Cone Detection of 2D Images:
 
 **DarkNet_Conedetection.ipynb**
 
-Notebook: Training, testing with darknet (yolov3) and post-proceccing with OpenCV.
+Notebook: Training and testing with darknet (yolov3) and post-proceccing with OpenCV.
 
 **obj.data**
 
